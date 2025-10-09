@@ -1,2 +1,2 @@
-# ESLAB1
+# ESLAB2
 HW-Lab2: Wifi and Sensor data
