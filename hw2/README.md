@@ -1,2 +1,2 @@
 # ESLAB1
-HW-Lab1: LED blinking and RTOS API
+HW-Lab2: Wifi and Sensor data
