@@ -1,2 +1,2 @@
-# ESLAB1
-HW-Lab1: LED blinking and RTOS API
+# ESLAB3
+HW-Lab3: BLE Central (GATT client) Programming
